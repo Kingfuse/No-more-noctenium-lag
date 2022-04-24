@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "servers": [""],
+    "supportUrl": "",
+    "name": "no-more-noctenium-lag",
+    "author": "Mister-Kay",
+    "description": "Blocks packets which caused client lag when using Noctenium."
+}
